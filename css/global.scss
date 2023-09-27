@@ -1,0 +1,133 @@
+// calling font 
+@font-face{
+    src: url(../assets/font/Poppins-Bold.ttf);
+    font-family: 'FontBold';
+}
+@font-face{
+    src: url(../assets/font/Poppins-Light.ttf);
+    font-family: 'FontLight';
+}
+@font-face{
+    src: url(../assets/font/Poppins-Medium.ttf);
+    font-family: 'FontMedium';
+}
+@font-face{
+    src: url(../assets/font/Poppins-Regular.ttf);
+    font-family: 'FontRegular';
+}
+
+
+// varibales 
+
+// colors 
+$Primary : #414042 ;
+$Second : #FF7272 ; 
+$third : #FFA68A ;
+$white : #fff ;
+$black : #000 ; 
+
+// fonts name 
+$bold: 'FontBold';
+$med : 'FontMedium' ;
+$Reg : 'FontRegular'; 
+$light : "FontLight"; 
+
+// size Font
+$size-head : 88px ;
+$size-address : 60.06px ;
+$size-medium : 22.00px ;
+$size-para : 17.6px ; 
+$size-small : 14.80px ; 
+
+
+//  all classes background shortcut 
+
+.bg-1 {
+    background-color: $Primary ;
+    color: $white ;
+}
+
+
+.bg-2{
+    background-color: $Second;
+    color: $white;
+}
+
+.bg-3{
+    background: $third;
+    color: $white ;
+}
+
+.bg-4{
+    background: $white ;
+    color: $black;
+}
+
+
+.color-1{
+    color: $Primary;
+}
+
+.color-2{
+    color: $Second;
+}
+
+.color-3{
+    color: $third;
+}
+
+.color-4{
+    color: $white ;
+}
+
+.color-5{
+    color: black ;
+}
+
+
+
+// all size fonts shortcut 
+
+.size-1{
+    font-size: $size-head;
+}
+
+
+.size-2{
+    font-size: $size-address;
+    font-family: $med;
+}
+
+
+.size-3{
+    font-size: $size-medium;
+}
+
+
+.size-4{
+    font-size: $size-para;
+}
+
+
+.size-5{
+    font-size: $size-small;
+}
+
+
+// global classes in page 
+a{
+    color: unset !important ;
+}
+
+body , html {
+    background-color: $Primary;
+}
+
+
+.upper{
+    text-transform: uppercase;
+}
+
+
+
+

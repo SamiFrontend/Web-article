@@ -1,0 +1,93 @@
+@font-face {
+  src: url(../assets/font/Poppins-Bold.ttf);
+  font-family: 'FontBold';
+}
+
+@font-face {
+  src: url(../assets/font/Poppins-Light.ttf);
+  font-family: 'FontLight';
+}
+
+@font-face {
+  src: url(../assets/font/Poppins-Medium.ttf);
+  font-family: 'FontMedium';
+}
+
+@font-face {
+  src: url(../assets/font/Poppins-Regular.ttf);
+  font-family: 'FontRegular';
+}
+
+.bg-1 {
+  background-color: #414042;
+  color: #fff;
+}
+
+.bg-2 {
+  background-color: #FF7272;
+  color: #fff;
+}
+
+.bg-3 {
+  background: #FFA68A;
+  color: #fff;
+}
+
+.bg-4 {
+  background: #fff;
+  color: #000;
+}
+
+.color-1 {
+  color: #414042;
+}
+
+.color-2 {
+  color: #FF7272;
+}
+
+.color-3 {
+  color: #FFA68A;
+}
+
+.color-4 {
+  color: #fff;
+}
+
+.color-5 {
+  color: black;
+}
+
+.size-1 {
+  font-size: 88px;
+}
+
+.size-2 {
+  font-size: 60.06px;
+  font-family: "FontMedium";
+}
+
+.size-3 {
+  font-size: 22px;
+}
+
+.size-4 {
+  font-size: 17.6px;
+}
+
+.size-5 {
+  font-size: 14.8px;
+}
+
+a {
+  color: unset !important;
+}
+
+body, html {
+  background-color: #414042;
+}
+
+.upper {
+  text-transform: uppercase;
+}
+/*# sourceMappingURL=global.css.map */

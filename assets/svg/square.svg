@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="77" height="77" viewBox="0 0 77 77">
+  <defs>
+    <clipPath id="clip-square">
+      <rect width="77" height="77"/>
+    </clipPath>
+  </defs>
+  <g id="square" clip-path="url(#clip-square)">
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="matrix(0.985, -0.174, 0.174, 0.985, 2.79, 12.592)" fill="none" stroke="#707070" stroke-width="9">
+      <rect width="62" height="65" rx="26" stroke="none"/>
+      <rect x="4.5" y="4.5" width="53" height="56" rx="21.5" fill="none"/>
+    </g>
+  </g>
+</svg>
